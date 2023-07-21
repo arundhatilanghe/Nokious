@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nokious
+- 👋 Hi, I’m Arundhati Langhe.
 - 👀 I’m interested in coding especially in frontend development.
 - 🌱 I’m currently learning frontend development.
 - 💞️ I’m looking to collaborate on various projects which includes languages like python, java and frontend development part.
